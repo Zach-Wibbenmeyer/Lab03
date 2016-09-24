@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="passwordTextView">Password:</string>
+    <string name="passwordEditText">""</string>
+    <string name="invalidTextView">Invalid Password</string>
+    <string name="androidImageView">""</string>
+</resources>
