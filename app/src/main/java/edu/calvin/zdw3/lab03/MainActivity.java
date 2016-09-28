@@ -8,6 +8,13 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+/*****************************************
+ * CS262 Lab03 - Build a basic password app
+ * Professor: Keith Vanderlinden
+ * Author: Zach Wibbenmeyer
+ * Date: 09/25/2016
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     // set up private variables
